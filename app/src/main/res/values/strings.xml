@@ -1,0 +1,16 @@
+<resources>
+    <string name="welcome">Welcome!</string>
+    <string name="nice">Nice to see you again</string>
+    <string name="app_name">UAS PGM</string>
+    <string name="bukan_member">You are not a member?</string>
+    <string name="register"> Register.</string>
+    <string name="login">Login</string>
+    <string name="btnregister">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-Password</string>
+    <string name="email">E-Mail</string>
+    <string name="member">You are a member?</string>
+    <string name="logint"> Login.</string>
+    <string name="kembali">Back</string>
+</resources>
